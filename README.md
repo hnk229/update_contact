@@ -46,7 +46,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [Ulrich](houenoukpoulrich2@gmail.com) file for details.
 ## Images
 
 Here are some screenshots of the application:
